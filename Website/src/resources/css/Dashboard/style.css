@@ -1,0 +1,17 @@
+.content-wrapper.iframe-mode .navbar-nav .nav-item {
+    border: solid 1px lightgrey;
+}
+
+body > div.wrapper > nav > ul:nth-child(1) > div > h1{
+    font-size: 2.0rem;
+}
+
+body > div.wrapper > footer{
+    padding: 1px 1rem;
+    background-color: #343a40;
+    color: white;
+}
+
+.navbar {
+    padding: 0rem 0.5rem;
+}

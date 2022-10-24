@@ -1,0 +1,70 @@
+/* Convite Imagem */
+
+.img-convites {
+    box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+    height: 300px;
+    display: block;
+    margin: auto;
+    max-width: 300px;
+}
+
+.content-wrapper {
+    background-color: #ffffff;
+}
+
+.card-convites {
+    color: white;
+    box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+    cursor: pointer;
+}
+
+.card-convitesConc {
+    opacity: 0.4;
+}
+
+.img-convite {
+    box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+    width: 90%;
+    cursor: pointer;
+}
+
+.bodyConvite {
+    display: flex;
+}
+
+.map-container {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container iframe {
+    left: 0;
+    top: 0;
+    height: 450px;
+    width: 100%;
+    position: absolute;
+}
+
+.btnAcaoConvite {
+    cursor: pointer;
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.modalMapa {
+    cursor: pointer;
+}
+
+.btmPresenteConvite {
+    justify-content: space-between;
+    width: 145px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+.form-group {
+    margin-bottom: 0px !important;
+}
